@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Sobre mí<br>🔭 Actualmente trabajando en: Desarrollo de software con Java, Laravel y SQL.<br><br>👯 Busco colaborar en: Proyectos backend, optimización de bases de datos y desarrollo web.<br><br>🤝 Necesito ayuda con: Mejores prácticas en arquitectura de software e integración con brokers de mensajería jeje.<br><br>🌱 Aprendiendo: SQL avanzado, Laravel y mejorando mi inglés.<br><br>💬 Pregúntame sobre: Java, Laravel, SQL Server y diseño de bases de datos.<br><br>⚡ Dato curioso: Una vez formateé mi disco por una partición de Linux rebelde.<br><br>
+🔭 Actualmente trabajando en: Desarrollo de software con Java, Laravel y SQL.<br><br>👯 Busco colaborar en: Proyectos backend, optimización de bases de datos y desarrollo web.<br><br>🤝 Necesito ayuda con: Mejores prácticas en arquitectura de software e integración con brokers de mensajería jeje.<br><br>🌱 Aprendiendo: SQL avanzado, Laravel y mejorando mi inglés.<br><br>💬 Pregúntame sobre: Java, Laravel, SQL Server y diseño de bases de datos.<br><br>⚡ Dato curioso: Una vez formateé mi disco por una partición de Linux rebelde.<br><br>
 
 
 ## 🌐 Socials:
