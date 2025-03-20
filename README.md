@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! Soy Lucas, soy un estudiante avanzado en la carrera de ingenieria en sistemas de informacion de la facultad regional de Buenos Aires. pasionado por el desarrollo de software y la arquitectura de sistemas sumado mi amor por el mate jeje. Espero que disfrutes viendo mi perfil :D 
+Hola! Soy Lucas, soy un estudiante avanzado en la carrera de ingenieria en sistemas de informacion de la facultad regional de Buenos Aires. Apasionado por el desarrollo de software y la arquitectura de sistemas sumado mi amor por el mate jeje. Espero que disfrutes viendo mi perfil :D 
 
 
 ## 🌐 Socials:
